@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace provagft
+namespace ex1
 {
     class Program
     {

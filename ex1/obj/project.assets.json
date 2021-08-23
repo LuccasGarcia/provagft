@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\workspace\\provagft\\provagft\\provagft.csproj",
-      "projectName": "provagft",
-      "projectPath": "C:\\workspace\\provagft\\provagft\\provagft.csproj",
+      "projectUniqueName": "C:\\workspace\\provagft\\ex1\\ex1.csproj",
+      "projectName": "ex1",
+      "projectPath": "C:\\workspace\\provagft\\ex1\\ex1.csproj",
       "packagesPath": "C:\\Users\\Garcia\\.nuget\\packages\\",
-      "outputPath": "C:\\workspace\\provagft\\provagft\\obj\\",
+      "outputPath": "C:\\workspace\\provagft\\ex1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Garcia\\AppData\\Roaming\\NuGet\\NuGet.Config",
