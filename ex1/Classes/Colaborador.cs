@@ -2,14 +2,20 @@ namespace ex1.Classes
 {
     public class Colaborador
     {
-        public string Nome { get; set; }
+        private string nome;
 
-        public int Matricula { get; set; }
+        private int matricula;
 
-        public Colaborador(string nome, int mat)
+        public string Nome
         {
-            this.Nome = nome;
-            this.Matricula = mat;
+            get { return nome; }
+            set { nome = value; }
+        }
+
+        public int Matricula
+        {
+            get { return matricula; }
+            set { matricula = value; }
         }
     }
 }

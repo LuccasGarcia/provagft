@@ -16,9 +16,11 @@ namespace ex3.Classes
 
             Console.WriteLine("Informe se há cachorros.");
             morad.Cachorro = Console.ReadLine();
-            
-            //Deveria ser implementado uma Lista para receber todos os moradores e
-            //avaliar se a correspondencia foi entregue
+            /*
+            Deveria ser implementado uma Lista para receber todos os moradores e
+            avaliar se a correspondencia foi entregue, realizando a soma de todos que possuem
+            residencia impar
+            */
 
             //Confirmação de get/set
             Console.WriteLine($"Telefone do Morador: {morad.Telefone}.");
