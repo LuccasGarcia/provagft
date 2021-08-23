@@ -27,7 +27,9 @@ namespace ex1.Classes
             e2.Escola = "ETEC Ana Lucia";
             e2.Universidade = "Fatec RP";
 
-
+            Console.WriteLine($"Nome: {c1.Nome}; Matricula: {c1.Matricula}.");
+            Console.WriteLine($"Nome: {e1.Nome}; Matricula: {e1.Matricula}; Escola: {e1.Escola}.");
+            Console.WriteLine($"Nome: {e2.Nome}; Matricula: {e2.Matricula}; Escola: {e2.Escola}; Universidade: {e2.Universidade}.");
             
         }
     }
