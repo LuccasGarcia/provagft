@@ -1,0 +1,16 @@
+C:\workspace\provagft\ex3\obj\Debug\net5.0\ex3.csproj.AssemblyReference.cache
+C:\workspace\provagft\ex3\obj\Debug\net5.0\ex3.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\provagft\ex3\obj\Debug\net5.0\ex3.AssemblyInfoInputs.cache
+C:\workspace\provagft\ex3\obj\Debug\net5.0\ex3.AssemblyInfo.cs
+C:\workspace\provagft\ex3\obj\Debug\net5.0\ex3.csproj.CoreCompileInputs.cache
+C:\workspace\provagft\ex3\bin\Debug\net5.0\ex3.exe
+C:\workspace\provagft\ex3\bin\Debug\net5.0\ex3.deps.json
+C:\workspace\provagft\ex3\bin\Debug\net5.0\ex3.runtimeconfig.json
+C:\workspace\provagft\ex3\bin\Debug\net5.0\ex3.runtimeconfig.dev.json
+C:\workspace\provagft\ex3\bin\Debug\net5.0\ex3.dll
+C:\workspace\provagft\ex3\bin\Debug\net5.0\ref\ex3.dll
+C:\workspace\provagft\ex3\bin\Debug\net5.0\ex3.pdb
+C:\workspace\provagft\ex3\obj\Debug\net5.0\ex3.dll
+C:\workspace\provagft\ex3\obj\Debug\net5.0\ref\ex3.dll
+C:\workspace\provagft\ex3\obj\Debug\net5.0\ex3.pdb
+C:\workspace\provagft\ex3\obj\Debug\net5.0\ex3.genruntimeconfig.cache
